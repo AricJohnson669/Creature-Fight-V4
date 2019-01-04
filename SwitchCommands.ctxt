@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SwitchCommands
+comment1.params=idx\ c
+comment1.target=void\ execute(int,\ Creature)
+comment1.text=\r\n\ execute\ executes\ the\ appropriate\ action\ based\ on\ which\ kind\ \r\n\ of\ menu\ is\ being\ used,\ which\ option\ is\ selected,\ and\ for\ which\ creature\r\n\ the\ option\ is\ selected\r\n\ \r\n\ @param\ idx\ is\ the\ index\ of\ the\ option\ chosen\r\n\ @param\ c\ is\ the\ creature\ that\ is\ currently\ in\ play\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=2

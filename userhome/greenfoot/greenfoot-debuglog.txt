@@ -1,0 +1,1995 @@
+Greenfoot run started: Thu Jan 03 20:59:50 EST 2019
+Greenfoot version: 3.5.2
+Java version 1.8.0_192
+Virtual machine: Java HotSpot(TM) Client VM 25.192-b12 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Users\Aric\Desktop\Creature Fight four\Greenfoot\jdk\jre
+----
+Opening project: C:\Users\Aric\Desktop\Creature Fight four\CreatureFight-Elite-Four-master-master\CreatureFight-Elite-Four-master\CreatureFight-Elite-Four-master\CreatureFight Final Student
+1546567191639: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\greenfoot\import-cache.xml (The system cannot find the file specified)
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+	at java.nio.HeapByteBuffer.<init>(HeapByteBuffer.java:57)
+	at java.nio.ByteBuffer.allocate(ByteBuffer.java:335)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.createPlatformImage(QuantumToolkit.java:1350)
+	at javafx.scene.image.Image.<init>(Image.java:744)
+	at javafx.scene.image.WritableImage.<init>(WritableImage.java:100)
+	at bluej.editor.moe.BlueJSyntaxView.copy(BlueJSyntaxView.java:297)
+	at bluej.editor.moe.BlueJSyntaxView.getImageFor(BlueJSyntaxView.java:292)
+	at bluej.editor.moe.MoeEditorPane.lambda$null$0(MoeEditorPane.java:109)
+	at bluej.editor.moe.MoeEditorPane$$Lambda$1338/3505480.call(Unknown Source)
+	at javafx.beans.binding.Bindings$6.computeValue(Bindings.java:338)
+	at javafx.beans.binding.ObjectBinding.get(ObjectBinding.java:153)
+	at javafx.beans.binding.ObjectExpression.getValue(ObjectExpression.java:50)
+	at javafx.beans.property.ObjectPropertyBase.get(ObjectPropertyBase.java:132)
+	at javafx.scene.layout.Region$3.invalidated(Region.java:578)
+	at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:111)
+	at javafx.beans.property.ObjectPropertyBase.access$000(ObjectPropertyBase.java:51)
+	at javafx.beans.property.ObjectPropertyBase$Listener.invalidated(ObjectPropertyBase.java:233)
+	at com.sun.javafx.binding.ExpressionHelper$SingleInvalidation.fireValueChangedEvent(ExpressionHelper.java:137)
+	at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+	at javafx.beans.binding.ObjectBinding.invalidate(ObjectBinding.java:172)
+	at com.sun.javafx.binding.BindingHelperObserver.invalidated(BindingHelperObserver.java:51)
+	at com.sun.javafx.binding.ExpressionHelper$SingleInvalidation.fireValueChangedEvent(ExpressionHelper.java:137)
+	at com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:81)
+	at javafx.beans.property.ReadOnlyDoublePropertyBase.fireValueChangedEvent(ReadOnlyDoublePropertyBase.java:72)
+	at javafx.beans.property.ReadOnlyDoubleWrapper.fireValueChangedEvent(ReadOnlyDoubleWrapper.java:103)
+	at javafx.beans.property.DoublePropertyBase.markInvalid(DoublePropertyBase.java:113)
+	at javafx.beans.property.DoublePropertyBase.set(DoublePropertyBase.java:147)
+	at javafx.scene.layout.Region.setHeight(Region.java:917)
+	at javafx.scene.layout.Region.resize(Region.java:1365)
+	at javafx.scene.Node.resizeRelocate(Node.java:2941)
+	at org.fxmisc.richtext.ParagraphBox.layoutChildren(ParagraphBox.java:240)
+	at javafx.scene.Parent.layout(Parent.java:1087)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene$MouseHandler$1.run(Scene.java:3521)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$172(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$173(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+
+
+The system is out of resources.
+Consult the following stack trace for details.
+java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception during compilation: java.lang.RuntimeException: java.lang.OutOfMemoryError: Java heap space
+java.lang.RuntimeException: java.lang.OutOfMemoryError: Java heap space
+	at bluej.compiler.EventqueueCompileObserverAdapter.runOnEventQueue(EventqueueCompileObserverAdapter.java:74)
+	at bluej.compiler.EventqueueCompileObserverAdapter.endCompile(EventqueueCompileObserverAdapter.java:99)
+	at bluej.compiler.Job.compile(Job.java:110)
+	at bluej.compiler.CompilerThread.run(CompilerThread.java:72)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "BlueJ compiler thread" java.lang.RuntimeException: java.lang.OutOfMemoryError: Java heap space
+	at bluej.compiler.EventqueueCompileObserverAdapter.runOnEventQueue(EventqueueCompileObserverAdapter.java:74)
+	at bluej.compiler.EventqueueCompileObserverAdapter.endCompile(EventqueueCompileObserverAdapter.java:99)
+	at bluej.compiler.Job.compile(Job.java:116)
+	at bluej.compiler.CompilerThread.run(CompilerThread.java:72)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.impl_intersectsBounds(Node.java:5013)
+	at javafx.scene.layout.Region.impl_pickNodeLocal(Region.java:2931)
+	at javafx.scene.Node.impl_pickNode(Node.java:4912)
+	at javafx.scene.Scene$MouseHandler.pickNode(Scene.java:3899)
+	at javafx.scene.Scene$MouseHandler.access$1600(Scene.java:3485)
+	at javafx.scene.Scene.pick(Scene.java:1942)
+	at javafx.scene.Scene.access$6700(Scene.java:159)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3711)
+	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:394)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$353(GlassViewEventHandler.java:432)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:431)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-11" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" Exception in thread "JavaFX Application Thread" 
